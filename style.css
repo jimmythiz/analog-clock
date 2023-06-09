@@ -116,11 +116,12 @@ div .n11 {
 }
 #backHome{
     position: absolute;
-    margin: 3rem 0 0 3rem;
+    margin: 3rem 0 0 1rem;
     border: 1px solid white;
     border-radius: 2rem;
     padding: .5rem 2rem;
     background-color: white;
+    text-decoration : none;
 }
 #backHome a {
     color : black;
